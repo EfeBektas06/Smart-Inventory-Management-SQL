@@ -20,4 +20,5 @@ Manuel stok takibindeki hataları önlemek ve yönetime anlık finansal raporlar
 3. Ürün girişi, listeleme ve finansal analiz fonksiyonlarını çalıştırır.
 
 ---
-*Geliştirici: [Senin Adın]*
+
+*Geliştirici: [EFE BEKTAŞ]*
